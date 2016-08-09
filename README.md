@@ -52,7 +52,7 @@ You can also adjust the configuration in the sample code to get different visual
     # === End of Configuration ===
 
 
-Here are some visualization examples in the folder **visualization_example**, the 1x1 and 4x4 images are produced by the CNN network from the sample code, and the 8x8 image is produced by the VGG network from the reference below.
+Here are some visualization examples in the folder **visualization_examples**, the 1x1 and 4x4 images are produced by the CNN network from the sample code, and the 8x8 image is produced by the VGG network from the reference below.
 
 * Sample code: conv_filter_visualization.py
 * Reference: https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py
@@ -67,3 +67,5 @@ Here are some visualization examples in the folder **visualization_example**, th
 1. http://cs231n.github.io/convolutional-networks/
 2. Neural Networks and Deep Learning (Chapter 6)
   - http://neuralnetworksanddeeplearning.com/
+3. How convolutional neural networks see the world
+  - https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html
