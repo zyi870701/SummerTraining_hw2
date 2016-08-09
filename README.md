@@ -23,7 +23,7 @@ Tip: You can also adjust the number of epoch to save your time.
 
 ## Option
 
-analyze the functionality of **"filter"**.
+You can use the sample code to visualize filters or use other ways to analyze the functionality of **"filter"**.
 
 The sample code will use the model training from cifar10_cnn.py, so you need to modify the model architecure in the sample code if you adjust the model in cifar10_cnn.py.
 
